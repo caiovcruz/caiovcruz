@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🚀 Skills: <strong>HTML5, CSS3, ASP.NET, C#, C++, C.</strong>
+  🚀 Skills: <strong>HTML5, CSS3, ASP.NET, C#, C++, C, MS SQL Server, MySQL and MariaDB.</strong>
 </p>
 
 <p align="left">
-  ⚙️ Tools: <strong>Visual Studio, VSCode, Figma, Git and GitHub.</strong>
+  ⚙️ Tools: <strong>Visual Studio, VSCode, MS SQL Server Management Studio, MySQL Workbench, Figma, Git and GitHub.</strong>
 </p>
 
 <p align="left">
